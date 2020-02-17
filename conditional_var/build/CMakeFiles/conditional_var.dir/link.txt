@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7   -std=c++11 -g  -rdynamic CMakeFiles/conditional_var.dir/main.cpp.o  -o conditional_var -pthread 

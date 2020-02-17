@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu64/c11_tutorial/conditional_var/main.cpp
+iostream
+-
+fstream
+-
+thread
+-
+chrono
+-
+string
+-
+mutex
+-
+deque
+-
+condition_variable
+-
+
