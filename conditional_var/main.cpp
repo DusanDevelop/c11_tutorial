@@ -7,9 +7,12 @@
 #include <deque>
 #include  <condition_variable>
 
-// Test
+// Develop/feature_1 change  
+// Test 
 //
 using namespace std;
+
+unsigned int x = 0; // added Develop/feature_1 change 
 
 std::deque<int> q; // shared resource
 std::mutex mu;     // protect shared resource
