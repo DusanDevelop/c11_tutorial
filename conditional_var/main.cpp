@@ -13,6 +13,7 @@
 using namespace std;
 
 unsigned int x = 0; // added Develop/feature_1 change 
+unsigned int y = 0; // added main.cpp  int y
 
 std::deque<int> q; // shared resource
 std::mutex mu;     // protect shared resource
