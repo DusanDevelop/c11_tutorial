@@ -18,7 +18,11 @@ unsigned int z = 0; // added main.cpp  int z
 unsigned int dev = 0; // added main.cpp  int dev 
 unsigned int dev1 = 10; // from feature 5 
 
+
 // from develop change
+
+unsigned int dev2 = 10; // from feature 6 
+
 
 unsigned int dev2 = 10; // from feature 6 
 
