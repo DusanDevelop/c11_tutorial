@@ -12,11 +12,14 @@
 //
 using namespace std;
 
+// Feature 7
+
 unsigned int x = 0; // added Develop/feature_1 change 
 unsigned int y = 0; // added main.cpp  int y , next change
 unsigned int z = 0; // added main.cpp  int z 
 unsigned int dev = 0; // added main.cpp  int dev 
 unsigned int dev1 = 10; // from feature 5 
+
 // from develop change
 std::deque<int> q; // shared resource
 std::mutex mu;     // protect shared resource
