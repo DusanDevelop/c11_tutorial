@@ -15,6 +15,7 @@ using namespace std;
 unsigned int x = 0; // added Develop/feature_1 change 
 unsigned int y = 0; // added main.cpp  int y , next change
 unsigned int z = 0; // added main.cpp  int z 
+unsigned int dev = 0; // added main.cpp  int dev 
 
 std::deque<int> q; // shared resource
 std::mutex mu;     // protect shared resource
