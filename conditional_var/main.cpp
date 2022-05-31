@@ -16,7 +16,7 @@ unsigned int x = 0; // added Develop/feature_1 change
 unsigned int y = 0; // added main.cpp  int y , next change
 unsigned int z = 0; // added main.cpp  int z 
 unsigned int dev = 0; // added main.cpp  int dev 
-
+unsigned int dev1 = 0; // added main.cpp  int dev 
 std::deque<int> q; // shared resource
 std::mutex mu;     // protect shared resource
 std::condition_variable cond; //je synchronizacny objekt suvisi s mutexom , umoznuje poslat notifikaciu druhemu vlaknu ktory caka na notifikaciu unique_lock<mutex>
