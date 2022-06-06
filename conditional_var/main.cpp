@@ -11,6 +11,8 @@
 // Test 
 //
 using namespace std;
+
+int develop_added = 1; // from develop  set to 1 from feature
 // From develop change
 unsigned int x = 0; // added Develop/feature_1 change 
 unsigned int y = 0; // added main.cpp  int y , next change
